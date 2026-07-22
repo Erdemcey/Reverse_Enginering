@@ -18,9 +18,7 @@
 - [10. Von Neumann mimarisi](#10-von-neumann-mimarisi)
 - [11. Bunun güvenlikle ilgisi ne?](#11-bunun-güvenlikle-ilgisi-ne)
 - [12. Bölüm özeti](#12-bölüm-özeti)
-- [13. Mini alıştırmalar](#13-mini-alıştırmalar)
-- [14. Cevap anahtarı](#14-cevap-anahtarı)
-- [15. Kavram sözlüğü](#15-kavram-sözlüğü)
+
 
 ---
 
